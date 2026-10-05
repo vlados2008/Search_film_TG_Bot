@@ -1,0 +1,82 @@
+{
+    "start": {
+        "msg": {
+            "welcome": "Welcome",
+            "restart": "Welcome back",
+            "not_profile": "You haven't created a profile"
+        },
+        "btns":{
+            "profile": "Profile",
+            "search": "Search"
+        }
+    },
+
+    "profile": {
+        "msg": {
+            "name": "Name",
+            "username": "Username",
+            "id": "Id",
+            "language": "Language"
+        },
+        "btns": {
+            "change_profile": "Edit profile",
+            "change_lang": "Change language",
+            "delete_profile": "Delete profile",
+            "history": "History"
+        }
+    },
+
+    "search": {
+        "msg": {
+            "what_search": "What are you looking for?",
+            "enter_name_film": "Enter movie title:",
+            "enter_name_series": "Enter the title of the series:",
+            "search_film": "Movie search",
+            "search_series": "Series search",
+            "result": "Search result ...",
+            "no_result": "Could not be found("
+        },
+        "btns": {
+            "film": "Film",
+            "series": "Series"
+        }
+    },
+
+    "film": {
+        "name": "Title:",
+        "released": "Year:",
+        "genre": "Type:",
+        "runtime": "Runtime:",
+        "country": "Country:",
+        "plot": "Plot:"
+    },
+
+    "change_profile": {
+        "msg": {
+            "question": "Choose what you want to change in your profile",
+            "new_name": "Enter a new name",
+            "new_username": "Enter a new username",
+            "update_profile": "Profile updated"
+        },
+        "btns": {
+            "name": "Name",
+            "username": "Username"
+        }
+    },
+
+    "change_lang": {
+        "msg": {
+            "action_change": "Select the language you want to change to",
+            "info_change": "You have changed the language to ENGLISH"
+        },
+        "btns": {
+            "ru": "Russian",
+            "uk": "Ukrainian",
+            "en": "English"
+        }
+    },
+
+    "delete_profile": {
+        "msg": "Account deleted!"
+    }
+}
